@@ -1,7 +1,7 @@
 ## Project Name: *Artic Treats*
 
 ## Project Purpose
-The main objective of a snow cone business is to create a profitable and customer-centric venture that offers delicious frozen treats. This means providing high-quality products and exceptional customer service in busy areas. Key elements of this project involvs taking advantage of the significant profit potential that snow cones offer, building a positive brand image, and effectively serving communities during the hot weather.
+The main objective of a snow cone business is to create a profitable and customer-centric venture that offers delicious frozen treats. This means providing high-quality products and exceptional customer service in busy areas. Key elements of this project involvs taking advantage of the significant profit potential that snow cones offer, building a positive brand image, and effectively serving communities during the warm weather.
 
 ## Description
 Artic Treats will located at a secure and high-traffic area, a small rental building on 508 N. Main Street will be our location. The location will be accessable for drive through or walk-up customers. Investments will be in high quality machines, syrups and syrup dispensers to give our customers the best quality snowcones. We will aim to open in ealry Spring of April, as the weather will begin to warm up. This is a season buisness and will be open for business from April to the end of October.
