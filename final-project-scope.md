@@ -1,3 +1,5 @@
+## Tool: Project Scope Statement
+
 ## Project Name: *Artic Treats*
 
 ## Project Purpose
