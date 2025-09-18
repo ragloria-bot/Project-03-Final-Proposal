@@ -1,24 +1,24 @@
-## Tool: Project Scope Statement
+## Tool:  New Snowcone Website (Artic Treats) for Business owner Jack Frost.
 
-## Project Name: *Artic Treats*
+## Project Name: *Arctic Treats Snowcones Website Development*
 
 ## Project Purpose
-The main objective of a snow cone business is to create a profitable and customer-centric venture that offers delicious frozen treats. This means providing high-quality products and exceptional customer service in busy areas. Key elements of this project involvs taking advantage of the significant profit potential that snow cones offer, building a positive brand image, and effectively serving communities during the warm weather.
+The main objective of this project is to design, develop, and launch a professional, user-friendly website for "Artic Treats," a new snowcone business. The new website will serve as a central hub for customers to view the menu, find locations, and learn about the brand. The project aims to increase brand visibility and drive sales within the target market. The goal is to design, develop, and launch a professional and user-friendly  website for "Artic Treats," a vibrant new snowcone business that offers a wide variety of flavors and toppings. This website will serve as an engaging central hub where customers can easily browse the menu, and discover nearby locations..
 
 ## Description
-Artic Treats will located at a secure and high-traffic area, a small rental building on 508 N. Main Street will be our location. The location will be accessable for drive through or walk-up customers. Investments will be in high quality machines, syrups and syrup dispensers to give our customers the best quality snowcones. We will aim to open in ealry Spring of April, as the weather will begin to warm up. This is a season buisness and will be open for business from April to the end of October.
+The new snowcone website project for Artic Treats is designed to establish an intuitive and engaging platform that allows customers to easily explore a wide variety of flavors, and gain insights into the brand's story and offerings. This digital storefront will not only highlight the diverse flavor options available, but it will also locations, and times of operation. Overall, this website will serve as a comprehensive marketing tool aimed at increasing sales while simultaneously cultivating a dedicated customer community that shares a passion for delicious snow cones.
 
 ## Desired Results
-Our goal is to provide a delightful, high-quality frozen treat that stands out with unique flavors, a smooth texture, and exceptional customer service. We will leverage social media to showcase our offerings and engage with the community effectively.
+The primary objective is to design and develop a user-friendly, and visually captivating website that not only converts visitors into paying customers but also fosters a strong sense of brand loyalty. We are committed to enhancing the overall user experience by implementing intuitive navigation, high-quality visuals, and engaging content that resonates with our target audience. Our strategy focuses on increasing sales and elevating brand recognition through tailored marketing efforts and streamlined customer interactions. By prioritizing exceptional customer service and seamless online engagement, we aim to create lasting relationships with our customers, encouraging repeat visits and promoting word-of-mouth referrals. Ultimately, our goal is to build a robust online presence that supports our business growth and cultivates a dedicated community of brand advocates.
 
 ## Exclusions
-Artic Treats will exclusively offer a selection of delicious snow cones. By concentrating on this refreshing treat, we aim to build a strong and memorable brand identity within our community during our first year. Our snow cones will feature a diverse array of vibrant flavors crafted from high-quality ingredients, ensuring a delightful experience for all who indulge. This focused approach will allow us to connect with our community, gather valuable feedback, and refine our offerings before potentially expanding our menu in the future. Our goal is to create not just a tasty treat, but a beloved go-to destination that everyone will look forward to visiting!
+Artic Treats website will exclusively offer a delightful range of snow cones for our valued customers right at our storefront. Each snow cone is crafted with high-quality ingredients and comes in a variety of flavors to satisfy every palate. These refreshing treats will not be available for online orders, also Artic Treats website will not include a mobile app, delivery service integration, or catering booking functionality.
 
 ## Priorities
 How would you priorititize these constraints? (1= most important)
-1. Secure lease for business property
-2. Obtian all necessary food licenses and permits.
-3. Purchase reliable, commercial, high-quality ice shavers, dispensers and syrups
+1. Create a visually appealing design.
+2. Provide clear information on menu items and location.
+3. Encourage engagement through high-quality photos and social media integration. 
 
 ## Acceptance Criteria
-This comprehensive set of acceptance criteria for a snow cone business project is divided into five key categories: business setup (register for business EIN), regulatory compliance (food handling permits), location and logistics (secure lease for location), product and operations (purchase popular flavors and establish process of making, serving snowcones), and financial performance (startup costs, sales target, projected profit margin). Meeting these conditions will signify project completion and successful business launch. 
+The business owner is required to review and approve the final version of the Arctic Treats website before it goes live on April 16, 2026. Ensuring that the site loads swiftly is crucial, as a quick-loading website significantly enhances user experience, reduces frustration, and minimizes the likelihood of potential customers abandoning the website. 
