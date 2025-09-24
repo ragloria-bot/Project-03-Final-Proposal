@@ -44,7 +44,7 @@ h2 {
     margin-bottom: 2px; /* reduce space below h2 */
     margin-top: 10px; /* reduce space above h2 */
     background-color: #f0f8ff; /* light blue background */
-    border: 1px solid #ccc; /* light gray border */
+    border: 1px solid #cb309a; /* hot pink border */
     border-radius: 5px; /* rounded corners */
     padding: 10px; /* padding inside the box */
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
@@ -56,7 +56,7 @@ h2 {
     margin-left: auto; /* center h2 horizontally */
     margin-right: auto; /* center h2 horizontally */ 
     font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
-    text-align: center; /* left-align text */
+    text-align: center; /* center-align text */
 }
 
 p {
