@@ -88,7 +88,7 @@ ul {
     line-height: 1.5;
     margin-top: 2px; /* reduce space above ul */
     margin-bottom: 10px; /* reduce space below ul */
-    list-style-type: heart; /* heart bullets */
+    list-style-type: round; /* round bullets */
     margin-left: 20px; /* indent list */
     background-color: #f56dd5; /* pink background */
     border: 1px solid #ccc; /* light gray border */
