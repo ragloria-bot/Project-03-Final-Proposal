@@ -41,7 +41,7 @@ h2 {
     color: #31023b; /* dark purple */
     font-size: 18px; 
     padding: 8px;
-    margin-bottom: 2px; /* reduce space below h2 */
+    margin-bottom: 5px; /* reduce space below h2 */
     margin-top: 10px; /* reduce space above h2 */
     background-color: #f0f8ff; /* light blue background */
     border: 1px solid #cb309a; /* hot pink border */
@@ -56,7 +56,7 @@ h2 {
     margin-left: auto; /* center h2 horizontally */
     margin-right: auto; /* center h2 horizontally */ 
     font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
-    text-align: center; /* center-align text */
+    text-align: center; /* center text */
 }
 
 p {
