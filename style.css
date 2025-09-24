@@ -39,7 +39,7 @@ h1 {
     margin-bottom: 5px; /* reduce space below h1 */
     margin-top: 10px; /* reduce space above h1 */
     background-color: #06e4e0; /* light turquoise background */
-    border: 1px solid #ccc; /* light gray border */
+    border: 1px solid #3c0954; /* purple border */
     border-radius: 5px; /* rounded corners */
     padding: 10px; /* padding inside the box */
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
@@ -48,10 +48,10 @@ h1 {
     height: fit-content; /* fit height to content */
     max-height: 100px; /* limit max height */
     overflow-y: auto; /* add vertical scrollbar if content overflows */
-    margin-left: auto; /* center h1 horizontally */
-    margin-right: auto; /* center h1 horizontally */
+    margin-left: auto; /* left-align h1 horizontally */
+    margin-right: auto; /* left-align h1 horizontally */
     font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
-    text-align: center; /* left text */
+    text-align: center; /* center text */
 }
 
 h2 {
