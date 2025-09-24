@@ -56,7 +56,8 @@ h2 {
     margin-left: auto; /* center h2 horizontally */
     margin-right: auto; /* center h2 horizontally */ 
     font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
-    text-align: center; /* center text */
+    text-align: left; /*left text */
+    background-position: left; /* left align background */
 }
 
 p {
@@ -89,7 +90,7 @@ ul {
     margin-top: 2px; /* reduce space above ul */
     margin-bottom: 10px; /* reduce space below ul */
     list-style-type: circle; /* circle bullets */
-    margin-left: 20px; /* indent list */
+    margin-left: 10px; /* indent list */
     background-color: #aed0f0; /* light blue background */
     border: 5px solid #221b4a; /* dark blue border */
     border-radius: 5px; /* rounded corners */
