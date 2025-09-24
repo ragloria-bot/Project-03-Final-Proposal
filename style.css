@@ -2,17 +2,79 @@ body {
     background-color: #8bf0f9; /* light turquoise */
     font-family: Arial Rounded MT Bold, Arial, sans-serif; /* rounded font */
     line-height: 1.6;
+    margin: 20px; /* add margin around the body */
+    color: #02090c; /* dark turquoise for text */
+    text-align: center; /* center all text */
+    display: flex; /* use flexbox for centering */
+    flex-direction: column; /* stack elements vertically */
+    align-items: center; /* center items horizontally */
+    justify-content: center; /* center items vertically */
+    min-height: 100vh; /* ensure body takes full viewport height */
+    overflow-x: hidden; /* prevent horizontal scrollbar */
+    overflow-y: auto; /* add vertical scrollbar if needed */
+    padding: 10px; /* add padding inside the body */
+    box-sizing: border-box; /* include padding in element's total width and height */
+    max-width: 100%; /* prevent body from exceeding viewport width */
+    max-height: 100%; /* prevent body from exceeding viewport height */
+    scrollbar-width: thin; /* thin scrollbar for Firefox */
+    scrollbar-color: #ccc #f0f8ff; /* custom scrollbar colors for Firefox */
+    /* Hide scrollbar for Chrome, Safari and Edge */
+    body::-webkit-scrollbar {
+        width: 8px;
+    }
+    body::-webkit-scrollbar-track {
+        background: #f0f8ff;
+    }
+    body::-webkit-scrollbar-thumb {
+        background-color: #ccc;
+        border-radius: 10px;
+        border: 2px solid #f0f8ff;
+    }
+    
 }
 h1 {
     color: #02090c; /* dark turquoise */
    font-size: 30px; 
    padding: 10px;
+    margin-bottom: 5px; /* reduce space below h1 */
+    margin-top: 10px; /* reduce space above h1 */
+    background-color: #f0f8ff; /* light blue background */
+    border: 1px solid #ccc; /* light gray border */
+    border-radius: 5px; /* rounded corners */
+    padding: 10px; /* padding inside the box */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
+    width: fit-content; /* fit width to content */
+    max-width: 600px; /* limit max width */
+    height: fit-content; /* fit height to content */
+    max-height: 100px; /* limit max height */
+    overflow-y: auto; /* add vertical scrollbar if content overflows */
+    margin-left: auto; /* center h1 horizontally */
+    margin-right: auto; /* center h1 horizontally */
+    font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
+    text-align: center; /* center text */
+
 }
 h2 {
     color: #31023b; /* dark purple */
-   font-size: 18px; 
-   padding: 8px;
-  margin-bottom: 2px; /* reduce space below h2 */
+    font-size: 18px; 
+    padding: 8px;
+    margin-bottom: 2px; /* reduce space below h2 */
+    margin-top: 10px; /* reduce space above h2 */
+    background-color: #f0f8ff; /* light blue background */
+    border: 1px solid #ccc; /* light gray border */
+    border-radius: 5px; /* rounded corners */
+    padding: 10px; /* padding inside the box */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
+    width: fit-content; /* fit width to content */
+    max-width: 400px; /* limit max width */
+    height: fit-content; /* fit height to content */
+    max-height: 100px; /* limit max height */
+    overflow-y: auto; /* add vertical scrollbar if content overflows */
+    margin-left: auto; /* center h2 horizontally */
+    margin-right: auto; /* center h2 horizontally */ 
+    font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
+    text-align: center; /* center text */ 
+
 }
 p {
     color: #051718; /* dark teal */
