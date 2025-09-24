@@ -159,7 +159,7 @@ ul {
 
 div {
     border: 3px solid black; /* black border */
-    padding: 10px;
+    padding: 16px;
     margin-top: 20px;
     width: fit-content;
     height: fit-content;
@@ -291,25 +291,7 @@ button {
 button:hover {
     background-color: #051718; /* darker teal on hover */
 }
-/* Responsive design for smaller screens */
-@media (max-width: 600px) {
-    body {
-        margin: 10px; /* reduce margin on smaller screens */
-        padding: 10px; /* reduce padding on smaller screens */
-    }
-    h1, h2, p, ul, div {
-        max-width: 100%; /* allow elements to take full width */
-        font-size: 14px; /* reduce font size */
-    }
-    button {
-        padding: 8px 16px; /* reduce button padding */
-        font-size: 14px; /* reduce button font size */
-    }   
-    img {
-        max-width: 100%; /* ensure image doesn't exceed container width */
-        height: auto; /* maintain aspect ratio */
-    }
-}
+
 /* General Styles */
 * {
     box-sizing: border-box; /* include padding and border in element's total width and height */
