@@ -1,5 +1,5 @@
 body {
-    background-color: #e406a5; /* hot pink */
+    background-color: #62d3d7; /* light turquoise */
     font-family: Arial Rounded MT Bold, Arial, sans-serif; /* rounded font */
     line-height: 1.6;
     margin: 20px; /* add margin around the body */
@@ -44,7 +44,6 @@ h1 {
     max-width: 600px; /* limit max width */
     height: fit-content; /* fit height to content */
     max-height: 100px; /* limit max height */
-    overflow-y: auto; /* add vertical scrollbar if content overflows */
     margin-left: auto; /* left-align h1 horizontally */
     margin-right: auto; /* left-align h1 horizontally */
     font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
