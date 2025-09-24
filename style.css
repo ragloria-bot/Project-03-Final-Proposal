@@ -124,37 +124,6 @@ ul {
     align-items: flex-start; /* left-align items horizontally */
     justify-content: flex-start; /* left-align items vertically */
     flex-direction: column; /* stack elements vertically */
-    text-align: left; /* left text */
-    text-justify: inter-word; /* justify text */
-    text-indent: 20px; /* indent first line */
-    text-transform: none; /* normal text case */
-    letter-spacing: normal; /* normal letter spacing */
-    word-spacing: normal; /* normal word spacing */
-    white-space: normal; /* normal white space handling */
-    word-break: normal; /* normal word breaking */
-    hyphens: none; /* no hyphenation */
-    padding-left: 20px; /* indent list items */
-    list-style-position: outside; /* bullets outside the box */
-    list-style-image: none; /* no custom bullet image */
-    list-style-type: square; /* square bullets */
-    list-style: square; /* square bullets */
-    line-height: 1.5; /* consistent line height */
-    text-align: left; /* left text */
-    margin-left: auto; /* center ul horizontally */
-    margin-right: auto; /* center ul horizontally */
-    display: flex; /* use flexbox for centering */
-    align-items: flex-start; /* left-align items horizontally */
-    justify-content: flex-start; /* left-align items vertically */
-    flex-direction: column; /* stack elements vertically */
-    text-align: left; /* left text */
-    text-justify: inter-word; /* justify text */
-    text-indent: 20px; /* indent first line */
-    text-transform: none; /* normal text case */
-    letter-spacing: normal; /* normal letter spacing */
-    word-spacing: normal; /* normal word spacing */
-    white-space: normal; /* normal white space handling */
-    word-break: normal; /* normal word breaking */
-    hyphens: none; /* no hyphenation */ 
 }
 
 div {
