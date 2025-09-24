@@ -4,11 +4,11 @@ body {
     line-height: 1.6;
     margin: 20px; /* add margin around the body */
     color: #02090c; /* dark turquoise for text */
-    text-align: center; /* center all text */
+    text-align: left; /* left-align all text */
     display: flex; /* use flexbox for centering */
     flex-direction: column; /* stack elements vertically */
-    align-items: center; /* center items horizontally */
-    justify-content: center; /* center items vertically */
+    align-items: flex-start; /* left-align items horizontally */
+    justify-content: flex-start; /* left-align items vertically */
     min-height: 100vh; /* ensure body takes full viewport height */
     overflow-x: hidden; /* prevent horizontal scrollbar */
     overflow-y: auto; /* add vertical scrollbar if needed */
@@ -30,8 +30,8 @@ body {
         border-radius: 10px;
         border: 2px solid #f0f8ff;
     }
-
 }
+
 h1 {
     color: #02090c; /* dark turquoise */
    font-size: 30px; 
@@ -51,9 +51,9 @@ h1 {
     margin-left: auto; /* center h1 horizontally */
     margin-right: auto; /* center h1 horizontally */
     font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
-    text-align: center; /* center text */
-
+    text-align: center; /* left text */
 }
+
 h2 {
     color: #31023b; /* dark purple */
     font-size: 18px; 
@@ -73,9 +73,9 @@ h2 {
     margin-left: auto; /* center h2 horizontally */
     margin-right: auto; /* center h2 horizontally */ 
     font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
-    text-align: center; /* center text */ 
-
+    text-align: center; /* left-align text */
 }
+
 p {
     color: #051718; /* dark teal */
     font-size: 16px;
@@ -97,6 +97,7 @@ p {
     margin-right: auto; /* center p horizontally */
     font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
 }
+
 ul {
     color: #051c1c; /* dark teal */
     font-size: 16px;
@@ -116,8 +117,63 @@ ul {
     height: fit-content; /* fit height to content */
     max-height: 200px; /* limit max height */
     overflow-y: auto; /* add vertical scrollbar if content overflows */
-
+    margin-left: auto; /* center ul horizontally */
+    margin-right: auto; /* center ul horizontally */
+    font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
+    text-align: left; /* left-align text */
+    text-justify: inter-word; /* justify text */
+    text-indent: 20px; /* indent first line */
+    text-transform: none; /* normal text case */
+    letter-spacing: normal; /* normal letter spacing */
+    word-spacing: normal; /* normal word spacing */
+    white-space: normal; /* normal white space handling */
+    word-break: normal; /* normal word breaking */
+    hyphens: none; /* no hyphenation */
+    list-style-position: outside; /* bullets outside the box */
+    list-style-image: none; /* no custom bullet image */
+    list-style-type: square; /* square bullets */
+    list-style: square; /* square bullets */
+    line-height: 1.5; /* consistent line height */
+    text-align: left; /* left text */
+    margin-left: auto; /* center ul horizontally */
+    margin-right: auto; /* center ul horizontally */
+    display: flex; /* use flexbox for centering */
+    align-items: flex-start; /* left-align items horizontally */
+    justify-content: flex-start; /* left-align items vertically */
+    flex-direction: column; /* stack elements vertically */
+    text-align: left; /* left text */
+    text-justify: inter-word; /* justify text */
+    text-indent: 20px; /* indent first line */
+    text-transform: none; /* normal text case */
+    letter-spacing: normal; /* normal letter spacing */
+    word-spacing: normal; /* normal word spacing */
+    white-space: normal; /* normal white space handling */
+    word-break: normal; /* normal word breaking */
+    hyphens: none; /* no hyphenation */
+    padding-left: 20px; /* indent list items */
+    list-style-position: outside; /* bullets outside the box */
+    list-style-image: none; /* no custom bullet image */
+    list-style-type: square; /* square bullets */
+    list-style: square; /* square bullets */
+    line-height: 1.5; /* consistent line height */
+    text-align: left; /* left text */
+    margin-left: auto; /* center ul horizontally */
+    margin-right: auto; /* center ul horizontally */
+    display: flex; /* use flexbox for centering */
+    align-items: flex-start; /* left-align items horizontally */
+    justify-content: flex-start; /* left-align items vertically */
+    flex-direction: column; /* stack elements vertically */
+    text-align: left; /* left text */
+    text-justify: inter-word; /* justify text */
+    text-indent: 20px; /* indent first line */
+    text-transform: none; /* normal text case */
+    letter-spacing: normal; /* normal letter spacing */
+    word-spacing: normal; /* normal word spacing */
+    white-space: normal; /* normal white space handling */
+    word-break: normal; /* normal word breaking */
+    hyphens: none; /* no hyphenation */ 
 }
+
 div {
     border: 2px solid black; /* black border */
     padding: 10px;
@@ -135,27 +191,109 @@ div {
     color: white; /* white text for contrast */
     font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
     line-height: 1.5; /* consistent line height */
-    text-align: center; /* center text */
+    text-align: left; /* left text */
     margin-left: auto; /* center div horizontally */
     margin-right: auto; /* center div horizontally */
     display: flex; /* use flexbox for centering */
     align-items: center; /* center items vertically */
     justify-content: center; /* center items horizontally */
+    flex-direction: column; /* stack elements vertically */
+    text-align: center; /* center text */
+    text-justify: inter-word; /* justify text */
+    text-indent: 20px; /* indent first line */
+    text-transform: none; /* normal text case */
+    letter-spacing: normal; /* normal letter spacing */
+    word-spacing: normal; /* normal word spacing */
+    white-space: normal; /* normal white space handling */
+    word-break: normal; /* normal word breaking */
+    hyphens: none; /* no hyphenation */
 }
+div:hover {
+    background-color: #31023b; /* dark purple on hover */
+    color: white; /* white text on hover */
+    transform: scale(1.02); /* slightly enlarge on hover */
+    box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.3); /* stronger shadow on hover */
+    transition: background-color 0.3s, color 0.3s, transform 0.3s, box-shadow 0.3s; /* smooth transition */
+} 
+
 a {
     color: #02090c; /* dark turquoise */
     text-decoration: none; /* remove underline */
+    font-weight: bold; /* bold text */
+    font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
+    font-size: 16px; /* consistent font size */
+    margin: 5px; /* margin around links */
+    padding: 5px; /* padding inside links */
+    border-radius: 5px; /* rounded corners */
+    transition: background-color 0.3s, color 0.3s; /*
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
+    background-color: #f0f8ff; /* light blue background */
+    text-align: left; /* left text */
+    display: inline-block; /* allow padding and margin */
+    text-align: left; /* left text */
+    margin-left: auto; /* center a horizontally */
+    margin-right: auto; /* center a horizontally */ 
+    display: flex; /* use flexbox for centering */
+    align-items: center; /* center items vertically */
+    justify-content: center; /* center items horizontally */
+    flex-direction: column; /* stack elements vertically */
+    text-align: center; /* center text */
+    text-justify: inter-word; /* justify text */
+    text-indent: 20px; /* indent first line */
+    text-transform: none; /* normal text case */    
+    letter-spacing: normal; /* normal letter spacing */
+    word-spacing: normal; /* normal word spacing */
+    white-space: normal; /* normal white space handling */
+    word-break: normal; /* normal word breaking */
+    hyphens: none; /* no hyphenation */
 }
 a:hover {
     text-decoration: underline; /* underline on hover */
-}  
+    background-color: #051718; /* dark teal background on hover */
+    color: white; /* white text on hover */
+    transform: scale(1.05); /* slightly enlarge on hover */
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2); /* stronger shadow on hover */
+    transition: background-color 0.3s, color 0.3s, transform 0.3s, box-shadow 0.3s; /* smooth transition */
+}
+  
 img {
     max-width: 100%; /* ensure image doesn't exceed container width */
     height: auto; /* maintain aspect ratio */
     border-radius: 10px; /* rounded corners */
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
     margin: 10px 0; /* vertical margin */
-} 
+    display: block; /* remove inline spacing */
+    margin-left: auto; /* center image horizontally */
+    margin-right: auto; /* center image horizontally */
+    transition: transform 0.3s, box-shadow 0.3s; /* smooth transition */
+    cursor: pointer; /* pointer cursor on hover */
+    max-width: 600px; /* limit max width */
+    max-height: 400px; /* limit max height */
+    overflow: auto; /* add scrollbar if content overflows */
+    text-align: left; /* left align text */
+    box-sizing: border-box; /* include padding and border in element's total width and height */
+    display: flex; /* use flexbox for centering */
+    align-items: left; /* left align items vertically */
+    justify-content: left; /* left align items horizontally */
+    flex-direction: column; /* stack elements vertically */
+    text-align: left; /* left text */
+    text-justify: inter-word; /* justify text */
+    text-indent: 20px; /* indent first line */
+    text-transform: none; /* normal text case */
+    letter-spacing: normal; /* normal letter spacing */
+    word-spacing: normal; /* normal word spacing */
+    white-space: normal; /* normal white space handling */
+    word-break: normal; /* normal word breaking */
+    hyphens: none; /* no hyphenation */
+}
+
+img:hover {
+    transform: scale(1.05); /* slightly enlarge on hover */
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2); /* stronger shadow on hover */
+    transition: transform 0.3s, box-shadow 0.3s; /* smooth transition */
+    cursor: pointer; /* pointer cursor on hover */
+}
+
 button {
     background-color: #02090c; /* dark turquoise */
     color: white; /* white text */
