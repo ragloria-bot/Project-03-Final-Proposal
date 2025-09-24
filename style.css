@@ -1,5 +1,5 @@
 body {
-    background-color: #06e4e0; /* light turquoise */
+    background-color: #e406a5; /* hot pink */
     font-family: Arial Rounded MT Bold, Arial, sans-serif; /* rounded font */
     line-height: 1.6;
     margin: 20px; /* add margin around the body */
@@ -16,12 +16,9 @@ body {
     box-sizing: border-box; /* include padding in element's total width and height */
     max-width: 100%; /* prevent body from exceeding viewport width */
     max-height: 100%; /* prevent body from exceeding viewport height */
-    scrollbar-width: thin; /* thin scrollbar for Firefox */
-    scrollbar-color: #ccc #f0f8ff; /* custom scrollbar colors for Firefox */
-    /* Hide scrollbar for Chrome, Safari and Edge */
-    body::-webkit-scrollbar {
-        width: 8px;
-    }
+}
+
+
     body::-webkit-scrollbar-track {
         background: #f0f8ff;
     }
@@ -30,7 +27,7 @@ body {
         border-radius: 10px;
         border: 2px solid #f0f8ff;
     }
-}
+
 
 h1 {
     color: #02090c; /* dark turquoise */
@@ -175,7 +172,7 @@ ul {
 }
 
 div {
-    border: 2px solid black; /* black border */
+    border: 3px solid black; /* black border */
     padding: 10px;
     margin-top: 20px;
     width: fit-content;
