@@ -22,8 +22,8 @@ h1 {
     padding: 10px;
     margin-bottom: 5px; /* reduce space below h1 */
     margin-top: 10px; /* reduce space above h1 */
-    background-color: #e7a1f5; /* light purple background */
-    border: 1px solid #3c0954; /* purple border */
+    background-color: #f0f8ff; /* light blue background */
+    border: 3px solid #3c0954; /* purple border */
     border-radius: 5px; /* rounded corners */
     padding: 10px; /* padding inside the box */
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
@@ -43,7 +43,7 @@ h2 {
     padding: 8px;
     margin-bottom: 5px; /* reduce space below h2 */
     margin-top: 10px; /* reduce space above h2 */
-    background-color: #e7a1f5; /* light purple background */
+    background-color: #f0f8ff; /* light blue background */
     border: 5px solid #cb309a; /* hot pink border */
     border-radius: 5px; /* rounded corners */
     padding: 10px; /* padding inside the box */
