@@ -41,7 +41,7 @@ h2 {
     color: #31023b; /* dark purple */
     font-size: 18px; 
     padding: 8px;
-    margin-bottom: 5px; /* reduce space below h2 */
+    margin-bottom: 20px; /* increase space below h2 */
     margin-top: 10px; /* reduce space above h2 */
     background-color: #e3c6f4; /* light purple background */
     border: 5px solid #cb309a; /* hot pink border */
