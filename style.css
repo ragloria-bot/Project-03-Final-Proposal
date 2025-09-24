@@ -56,8 +56,7 @@ h2 {
     margin-left: auto; /* center h2 horizontally */
     margin-right: auto; /* center h2 horizontally */ 
     font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
-    text-align: left; /*left text */
-    background-position: left; /* left align background */
+    text-align: center; /* center text */
 }
 
 p {
@@ -101,6 +100,7 @@ ul {
     height: fit-content; /* fit height to content */
     max-height: 200px; /* limit max height */
     overflow-y: auto; /* add vertical scrollbar if content overflows */
+    background-position: center; /* center background image */
 }
 
 div {
