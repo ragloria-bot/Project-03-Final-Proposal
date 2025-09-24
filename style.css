@@ -237,44 +237,6 @@ a:hover {
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2); /* stronger shadow on hover */
     transition: background-color 0.3s, color 0.3s, transform 0.3s, box-shadow 0.3s; /* smooth transition */
 }
-  
-img {
-    max-width: 100%; /* ensure image doesn't exceed container width */
-    height: auto; /* maintain aspect ratio */
-    border-radius: 10px; /* rounded corners */
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
-    margin: 10px 0; /* vertical margin */
-    display: block; /* remove inline spacing */
-    margin-left: auto; /* center image horizontally */
-    margin-right: auto; /* center image horizontally */
-    transition: transform 0.3s, box-shadow 0.3s; /* smooth transition */
-    cursor: pointer; /* pointer cursor on hover */
-    max-width: 600px; /* limit max width */
-    max-height: 400px; /* limit max height */
-    overflow: auto; /* add scrollbar if content overflows */
-    text-align: left; /* left align text */
-    box-sizing: border-box; /* include padding and border in element's total width and height */
-    display: flex; /* use flexbox for centering */
-    align-items: left; /* left align items vertically */
-    justify-content: left; /* left align items horizontally */
-    flex-direction: column; /* stack elements vertically */
-    text-align: left; /* left text */
-    text-justify: inter-word; /* justify text */
-    text-indent: 20px; /* indent first line */
-    text-transform: none; /* normal text case */
-    letter-spacing: normal; /* normal letter spacing */
-    word-spacing: normal; /* normal word spacing */
-    white-space: normal; /* normal white space handling */
-    word-break: normal; /* normal word breaking */
-    hyphens: none; /* no hyphenation */
-}
-
-img:hover {
-    transform: scale(1.05); /* slightly enlarge on hover */
-    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2); /* stronger shadow on hover */
-    transition: transform 0.3s, box-shadow 0.3s; /* smooth transition */
-    cursor: pointer; /* pointer cursor on hover */
-}
 
 button {
     background-color: #02090c; /* dark turquoise */
