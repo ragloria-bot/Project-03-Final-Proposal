@@ -238,18 +238,3 @@ button:hover {
 .shadow {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
 }
-
-img {
-    max-width: 100%; /* responsive image */
-    height: auto; /* maintain aspect ratio */
-    border-radius: 10px; /* rounded corners */
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
-    margin: 10px 0; /* margin around image */
-    display: block; /* block display for centering */
-    margin-left: auto; /* center image horizontally */
-    margin-right: auto; /* center image horizontally */
-    max-width: 1000px; /* limit max width */
-    max-height: 900px; /* limit max height */
-    object-fit: cover; /* cover the container */
-    place-content: left; /* left align image */
-}
