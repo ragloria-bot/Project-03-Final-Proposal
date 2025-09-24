@@ -20,7 +20,7 @@ h1 {
     color: #02090c; /* dark turquoise */
     font-size: 30px; 
     padding: 10px;
-    margin-bottom: 5px; /* increases space below h1 */
+    margin-bottom: 15px; /* increases space below h1 */
     margin-top: 10px; /* reduce space above h1 */
     background-color: #e3c6f4; /* light purple background */
     border: 5px solid #3c0954; /* purple border */
@@ -28,9 +28,9 @@ h1 {
     padding: 10px; /* padding inside the box */
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
     width: fit-content; /* fit width to content */
-    max-width: 600px; /* limit max width */
+    max-width: 900px; /* limit max width */
     height: fit-content; /* fit height to content */
-    max-height: 100px; /* limit max height */
+    max-height: 200px; /* limit max height */
     margin-left: auto; /* left-align h1 horizontally */
     margin-right: auto; /* left-align h1 horizontally */
     font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
