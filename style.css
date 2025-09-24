@@ -83,14 +83,14 @@ p {
 
 ul {
     color: #051c1c; /* dark teal */
-    font-size: 16px;
+    font-size: 18px;
     padding: 10px;
-    line-height: 1.3;
+    line-height: 1.5;
     margin-top: 2px; /* reduce space above ul */
     margin-bottom: 10px; /* reduce space below ul */
-    list-style-type: square; /* square bullets */
+    list-style-type: heart; /* heart bullets */
     margin-left: 20px; /* indent list */
-    background-color: #f0f8ff; /* light blue background */
+    background-color: #f56dd5; /* pink background */
     border: 1px solid #ccc; /* light gray border */
     border-radius: 5px; /* rounded corners */
     padding: 16px; /* padding inside the box */
@@ -114,16 +114,6 @@ ul {
     hyphens: none; /* no hyphenation */
     list-style-position: outside; /* bullets outside the box */
     list-style-image: none; /* no custom bullet image */
-    list-style-type: square; /* square bullets */
-    list-style: square; /* square bullets */
-    line-height: 1.5; /* consistent line height */
-    text-align: left; /* left text */
-    margin-left: auto; /* center ul horizontally */
-    margin-right: auto; /* center ul horizontally */
-    display: flex; /* use flexbox for centering */
-    align-items: flex-start; /* left-align items horizontally */
-    justify-content: flex-start; /* left-align items vertically */
-    flex-direction: column; /* stack elements vertically */
 }
 
 div {
