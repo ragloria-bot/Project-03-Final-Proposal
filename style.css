@@ -93,7 +93,7 @@ ul {
     background-color: #f0f8ff; /* light blue background */
     border: 1px solid #ccc; /* light gray border */
     border-radius: 5px; /* rounded corners */
-    padding: 10px; /* padding inside the box */
+    padding: 16px; /* padding inside the box */
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
     width: fit-content; /* fit width to content */
     max-width: 400px; /* limit max width */
