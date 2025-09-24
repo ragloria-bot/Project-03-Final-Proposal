@@ -19,13 +19,42 @@ p {
     font-size: 16px;
     padding: 10px;
     line-height: 1.7;
+    margin-top: 2px; /* reduce space above p */
+    margin-bottom: 10px; /* reduce space below p */
+    background-color: #f0f8ff; /* light blue background */
+    border: 1px solid #ccc; /* light gray border */
+    border-radius: 5px; /* rounded corners */
+    padding: 10px; /* padding inside the box */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
+    width: fit-content; /* fit width to content */
+    max-width: 600px; /* limit max width */
+    height: fit-content; /* fit height to content */
+    max-height: 300px; /* limit max height */
+    overflow-y: auto; /* add vertical scrollbar if content overflows */
+    margin-left: auto; /* center p horizontally */
+    margin-right: auto; /* center p horizontally */
+    font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
 }
 ul {
     color: #051c1c; /* dark teal */
     font-size: 16px;
     padding: 10px;
     line-height: 1.3;
-  margin-top: 2px; /* reduce space above ul */
+    margin-top: 2px; /* reduce space above ul */
+    margin-bottom: 10px; /* reduce space below ul */
+    list-style-type: square; /* square bullets */
+    margin-left: 20px; /* indent list */
+    background-color: #f0f8ff; /* light blue background */
+    border: 1px solid #ccc; /* light gray border */
+    border-radius: 5px; /* rounded corners */
+    padding: 10px; /* padding inside the box */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
+    width: fit-content; /* fit width to content */
+    max-width: 400px; /* limit max width */
+    height: fit-content; /* fit height to content */
+    max-height: 200px; /* limit max height */
+    overflow-y: auto; /* add vertical scrollbar if content overflows */
+
 }
 div {
     border: 2px solid black; /* black border */
@@ -35,4 +64,19 @@ div {
     height: fit-content;
     background-color:#f156d0 ;
     margin: 20px 0;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); /* subtle shadow */
+    border-radius: 10px; /* rounded corners */
+    max-width: 600px; /* limit max width */
+    max-height: 400px; /* limit max height */
+    overflow: auto; /* add scrollbar if content overflows */
+    font-size: 16px; /* consistent font size */
+    color: white; /* white text for contrast */
+    font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
+    line-height: 1.5; /* consistent line height */
+    text-align: center; /* center text */
+    margin-left: auto; /* center div horizontally */
+    margin-right: auto; /* center div horizontally */
+    display: flex; /* use flexbox for centering */
+    align-items: center; /* center items vertically */
+    justify-content: center; /* center items horizontally */
 }
