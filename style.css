@@ -90,7 +90,7 @@ ul {
     margin-bottom: 10px; /* reduce space below ul */
     list-style-type: round; /* round bullets */
     margin-left: 20px; /* indent list */
-    background-color: #4298e8; /* light blue background */
+    background-color: #aed0f0; /* light blue background */
     border: 1px solid #ccc; /* light gray border */
     border-radius: 5px; /* rounded corners */
     padding: 16px; /* padding inside the box */
@@ -112,8 +112,6 @@ ul {
     white-space: normal; /* normal white space handling */
     word-break: normal; /* normal word breaking */
     hyphens: none; /* no hyphenation */
-    list-style-position: outside; /* bullets outside the box */
-    list-style-image: none; /* no custom bullet image */
 }
 
 div {
