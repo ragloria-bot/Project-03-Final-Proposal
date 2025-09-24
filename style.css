@@ -10,8 +10,6 @@ body {
     align-items: flex-start; /* left-align items horizontally */
     justify-content: flex-start; /* left-align items vertically */
     min-height: 100vh; /* ensure body takes full viewport height */
-    overflow-x: hidden; /* prevent horizontal scrollbar */
-    overflow-y: auto; /* add vertical scrollbar if needed */
     padding: 10px; /* add padding inside the body */
     box-sizing: border-box; /* include padding in element's total width and height */
     max-width: 100%; /* prevent body from exceeding viewport width */
