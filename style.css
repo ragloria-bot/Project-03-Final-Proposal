@@ -16,17 +16,6 @@ body {
     max-height: 100%; /* prevent body from exceeding viewport height */
 }
 
-
-    body::-webkit-scrollbar-track {
-        background: #f0f8ff;
-    }
-    body::-webkit-scrollbar-thumb {
-        background-color: #ccc;
-        border-radius: 10px;
-        border: 2px solid #f0f8ff;
-    }
-
-
 h1 {
     color: #02090c; /* dark turquoise */
     font-size: 30px; 
