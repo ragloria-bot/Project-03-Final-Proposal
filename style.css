@@ -206,7 +206,7 @@ div {
     hyphens: none; /* no hyphenation */
 }
 div:hover {
-    background-color: #31023b; /* dark purple on hover */
+    background-color: #752786; /* purple on hover */
     color: white; /* white text on hover */
     transform: scale(1.02); /* slightly enlarge on hover */
     box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.3); /* stronger shadow on hover */
@@ -246,7 +246,7 @@ a {
 }
 a:hover {
     text-decoration: underline; /* underline on hover */
-    background-color: #051718; /* dark teal background on hover */
+    background-color: #752786; /* purple on hover */
     color: white; /* white text on hover */
     transform: scale(1.05); /* slightly enlarge on hover */
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2); /* stronger shadow on hover */
