@@ -82,25 +82,36 @@ p {
 }
 
 ul {
-    color: #051c1c; /* dark teal */
+    color: #0b060a; /* dark gray */
     font-size: 18px;
     padding: 10px;
     line-height: 1.5;
     margin-top: 2px; /* reduce space above ul */
     margin-bottom: 10px; /* reduce space below ul */
-    list-style-type: circle; /* circle bullets */
-    margin-left: 10px; /* indent list */
-    background-color: #aed0f0; /* light blue background */
-    border: 5px solid #221b4a; /* dark blue border */
+    background-color: #f0f8ff; /* light blue background */
+    border: 4px solid #0b060a; /* dark gray border */
     border-radius: 5px; /* rounded corners */
-    padding: 16px; /* padding inside the box */
+    padding: 10px; /* padding inside the box */
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
     width: fit-content; /* fit width to content */
-    max-width: 600px; /* limit max width */
+    max-width: 1000px; /* limit max width */
     height: fit-content; /* fit height to content */
-    max-height: 200px; /* limit max height */
+    max-height: 1000px; /* limit max height */
     overflow-y: auto; /* add vertical scrollbar if content overflows */
-    background-position: center; /* center background image */
+    margin-left: auto; /* center ul horizontally */
+    margin-right: auto; /* center ul horizontally */
+    font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
+    list-style-type: disc; /* bullet points */
+    list-style-position: inside; /* bullets inside the box */
+    text-align: left; /* left align text */
+    text-justify: inter-word; /* justify text */
+    text-indent: 20px; /* indent first line */
+    text-transform: none; /* normal text case */
+    letter-spacing: normal; /* normal letter spacing */
+    word-spacing: normal; /* normal word spacing */
+    white-space: normal; /* normal white space handling */
+    word-break: normal; /* normal word breaking */
+    hyphens: none; /* no hyphenation */
 }
 
 div {
