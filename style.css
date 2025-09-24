@@ -295,7 +295,7 @@ button:hover {
 @media (max-width: 600px) {
     body {
         margin: 10px; /* reduce margin on smaller screens */
-        padding: 5px; /* reduce padding on smaller screens */
+        padding: 10px; /* reduce padding on smaller screens */
     }
     h1, h2, p, ul, div {
         max-width: 100%; /* allow elements to take full width */
