@@ -282,4 +282,16 @@ button:hover {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
 }
 
+.windy-container {
+  /* Set a fixed size for the container */
+  width: 650px;
+  height: 450px;
+
+  /* Apply your desired background styles */
+  background-color: #f0f0f0;
+  background-image: url('path/to/your/image.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
 
