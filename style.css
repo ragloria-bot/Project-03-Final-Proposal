@@ -30,7 +30,7 @@ body {
         border-radius: 10px;
         border: 2px solid #f0f8ff;
     }
-    
+
 }
 h1 {
     color: #02090c; /* dark turquoise */
@@ -142,3 +142,122 @@ div {
     align-items: center; /* center items vertically */
     justify-content: center; /* center items horizontally */
 }
+a {
+    color: #02090c; /* dark turquoise */
+    text-decoration: none; /* remove underline */
+}
+a:hover {
+    text-decoration: underline; /* underline on hover */
+}  
+img {
+    max-width: 100%; /* ensure image doesn't exceed container width */
+    height: auto; /* maintain aspect ratio */
+    border-radius: 10px; /* rounded corners */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
+    margin: 10px 0; /* vertical margin */
+} 
+button {
+    background-color: #02090c; /* dark turquoise */
+    color: white; /* white text */
+    border: none; /* remove border */
+    padding: 10px 20px; /* padding */
+    border-radius: 5px; /* rounded corners */
+    cursor: pointer; /* pointer cursor on hover */
+    font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
+    font-size: 16px; /* consistent font size */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
+    margin: 10px; /* margin around button */
+}
+button:hover {
+    background-color: #051718; /* darker teal on hover */
+}
+/* Responsive design for smaller screens */
+@media (max-width: 600px) {
+    body {
+        margin: 10px; /* reduce margin on smaller screens */
+        padding: 5px; /* reduce padding on smaller screens */
+    }
+    h1, h2, p, ul, div {
+        max-width: 100%; /* allow elements to take full width */
+        font-size: 14px; /* reduce font size */
+    }
+    button {
+        padding: 8px 16px; /* reduce button padding */
+        font-size: 14px; /* reduce button font size */
+    }   
+    img {
+        max-width: 100%; /* ensure image doesn't exceed container width */
+        height: auto; /* maintain aspect ratio */
+    }
+}
+/* General Styles */
+* {
+    box-sizing: border-box; /* include padding and border in element's total width and height */
+}   
+/* Utility Classes */
+.text-center {
+    text-align: center; /* center text */
+}
+.mt-10 {
+    margin-top: 10px; /* margin top 10px */
+}
+.mb-10 {
+    margin-bottom: 10px; /* margin bottom 10px */
+}
+.mx-auto {
+    margin-left: auto; /* center horizontally */
+    margin-right: auto; /* center horizontally */
+}
+.padding-10 {
+    padding: 10px; /* padding 10px */
+}
+.rounded {
+    border-radius: 10px; /* rounded corners */
+}
+.shadow {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
+}
+/* Scrollbar Styles */
+::-webkit-scrollbar {
+    width: 8px; /* width of the scrollbar */
+}
+::-webkit-scrollbar-track {
+    background: #f0f8ff; /* light blue track */
+}
+::-webkit-scrollbar-thumb {
+    background-color: #ccc; /* gray thumb */
+    border-radius: 10px; /* rounded thumb */
+    border: 2px solid #f0f8ff; /* space around thumb */
+}
+/* End of Styles */
+/* Styles for a light turquoise theme with rounded fonts and centered text */
+
+body {
+    background-color: #f0f8ff; /* light blue background */
+    font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
+    color: #02090c; /* dark turquoise text */
+}
+
+h1, h2, h3 {
+    font-weight: bold; /* bold headings */
+    text-align: center; /* center headings */
+}
+
+p {
+    line-height: 1.5; /* consistent line height */
+    text-align: justify; /* justify text */
+}  
+a {
+    color: #02090c; /* dark turquoise links */
+    text-decoration: none; /* remove underline */
+}
+a:hover {
+    text-decoration: underline; /* underline on hover */
+}
+img {
+    max-width: 100%; /* ensure image doesn't exceed container width */
+    height: auto; /* maintain aspect ratio */
+    border-radius: 10px; /* rounded corners */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
+}
+
