@@ -248,4 +248,8 @@ img {
     display: block; /* block display for centering */
     margin-left: auto; /* center image horizontally */
     margin-right: auto; /* center image horizontally */
+    max-width: 600px; /* limit max width */
+    max-height: 400px; /* limit max height */
+    object-fit: cover; /* cover the container */
+    place-content: left; /* left align image */
 }
