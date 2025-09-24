@@ -240,14 +240,6 @@ button:hover {
 }
 
 img {
-    max-width: 100%; /* responsive width */
-    height: auto; /* maintain aspect ratio */
-    border-radius: 10px; /* rounded corners */
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
-    margin: 10px 0; /* margin above and below image */
-    width: fit-content; /* fit width to content */
-    max-width: 600px; /* limit max width */ 
-    height: fit-content; /* fit height to content */
-    max-height: 2000px; /* limit max height */
-    position: relative; /* align image to left */
+  float: left;
+  margin-right: 15px; /* Adds some space to the right of the image */
 }
