@@ -1,5 +1,5 @@
 body {
-    background-color: #8bf0f9; /* light turquoise */
+    background-color: #06e4e0; /* light turquoise */
     font-family: Arial Rounded MT Bold, Arial, sans-serif; /* rounded font */
     line-height: 1.6;
     margin: 20px; /* add margin around the body */
@@ -34,11 +34,11 @@ body {
 
 h1 {
     color: #02090c; /* dark turquoise */
-   font-size: 30px; 
-   padding: 10px;
+    font-size: 30px; 
+    padding: 10px;
     margin-bottom: 5px; /* reduce space below h1 */
     margin-top: 10px; /* reduce space above h1 */
-    background-color: #f0f8ff; /* light blue background */
+    background-color: #06e4e0; /* light turquoise background */
     border: 1px solid #ccc; /* light gray border */
     border-radius: 5px; /* rounded corners */
     padding: 10px; /* padding inside the box */
@@ -371,7 +371,7 @@ button:hover {
 /* Styles for a light turquoise theme with rounded fonts and centered text */
 
 body {
-    background-color: #f0f8ff; /* light blue background */
+    background-color: #06e4e0; /* light turquoise background */
     font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
     color: #02090c; /* dark turquoise text */
 }
