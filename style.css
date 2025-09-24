@@ -1,0 +1,38 @@
+body {
+    background-color: #8bf0f9; /* light turquoise */
+    font-family: Arial Rounded MT Bold, Arial, sans-serif; /* rounded font */
+    line-height: 1.6;
+}
+h1 {
+    color: #02090c; /* dark turquoise */
+   font-size: 30px; 
+   padding: 10px;
+}
+h2 {
+    color: #31023b; /* dark purple */
+   font-size: 18px; 
+   padding: 8px;
+  margin-bottom: 2px; /* reduce space below h2 */
+}
+p {
+    color: #051718; /* dark teal */
+    font-size: 16px;
+    padding: 10px;
+    line-height: 1.7;
+}
+ul {
+    color: #051c1c; /* dark teal */
+    font-size: 16px;
+    padding: 10px;
+    line-height: 1.3;
+  margin-top: 2px; /* reduce space above ul */
+}
+div {
+    border: 2px solid black; /* black border */
+    padding: 10px;
+    margin-top: 20px;
+    width: fit-content;
+    height: fit-content;
+    background-color:#f156d0 ;
+    margin: 20px 0;
+}
