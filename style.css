@@ -163,7 +163,7 @@ div {
     margin-top: 30px;
     width: fit-content;
     height: fit-content;
-    background-color:#f156d0 ;
+    background-color:#45e650; /* bright green background */
     margin: 20px 0;
     box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); /* subtle shadow */
     border-radius: 10px; /* rounded corners */
@@ -241,7 +241,7 @@ a:hover {
 button {
     background-color: #02090c; /* dark turquoise */
     color: white; /* white text */
-    border: none; /* remove border */
+    border: 5px solid #02090c; /* dark turquoise border */
     padding: 10px 20px; /* padding */
     border-radius: 5px; /* rounded corners */
     cursor: pointer; /* pointer cursor on hover */
