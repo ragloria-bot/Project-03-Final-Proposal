@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+  <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link href="style.css" rel="stylesheet">
+    <title>How to Find and Enjoy Our Snow Cones</title>
+  </head>
+  <body>
+    <h1>Get to Know Us</h1>
+  <p> Our founder Jack Frost, a long time resident of Anytown, USA, started  
+    Arctic Treats in 2020 with a simple mission: to bring joy and refreshment  
+    to the community through delicious snow cones. What began as a small stand  
+    at local events has blossomed into a beloved neighborhood fixture, known  
+    for our friendly service and mouth-watering flavors. We are passionate  
+    about creating memorable experiences for our customers, whether it's a  
+    family outing or a quick treat on a hot day. At Arctic Treats, we believe  
+    that every snow cone is more than just a dessert; it's a moment of  
+    happiness shared with friends and family. Join us at our two convenient  
+    locations celebrating the simple pleasures of life, one snow cone at a time!
+</p>
+  
+<h2>Flavors We Offer</h2>
+<p>
+  <a href="menu.html" title="Visit our Menu page">Click here to see our Menu</a>
+</p>
+
+<h2>Find Us Here</h2>
+<p> We have two convenient locations to serve you better! Visit us at:</p>
+<ul>
+  <li>123 Main Street, Anytown, USA</li>
+  <li>456 Oak Avenue, Anytown, USA</li> 
+</ul>
+<p> Our stands are easily accessible and situated in high-traffic areas,  
+  making it convenient for customers to stop by and enjoy our delicious  
+  snow cones. We look forward to seeing you soon!</p>
+  
+</body>
+</html>
