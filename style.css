@@ -96,7 +96,7 @@ ul {
     padding: 16px; /* padding inside the box */
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
     width: fit-content; /* fit width to content */
-    max-width: 400px; /* limit max width */
+    max-width: 600px; /* limit max width */
     height: fit-content; /* fit height to content */
     max-height: 200px; /* limit max height */
     overflow-y: auto; /* add vertical scrollbar if content overflows */
