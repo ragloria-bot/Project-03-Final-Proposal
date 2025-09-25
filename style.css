@@ -114,7 +114,7 @@ ul {
     hyphens: none; /* no hyphenation */
 }
 
-div {
+ #firstDiv {
     border: 3px solid black; /* black border */
     padding: 16px;
     margin-top: 30px;
@@ -147,6 +147,15 @@ div {
     word-break: normal; /* normal word breaking */
     hyphens: none; /* no hyphenation */
 }
+    #secondDiv {
+        padding: 16px;
+        margin-top: 30px;
+        width: fit-content;
+        height: fit-content;
+        background-color:none; /* no background color */
+        margin: 20px 0;
+    }
+
 div:hover {
     background-color: #752786; /* purple on hover */
     color: white; /* white text on hover */
