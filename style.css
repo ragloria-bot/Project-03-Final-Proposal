@@ -148,7 +148,7 @@ ul {
     hyphens: none; /* no hyphenation */
 }
 
-#firstDiv:hover {
+div:hover {
     background-color: #752786; /* purple on hover */
     color: white; /* white text on hover */
     transform: scale(1.02); /* slightly enlarge on hover */
