@@ -173,9 +173,6 @@ ul {
 #secondDiv:hover {  
     background-color: none; /* no background color on hover */
     color: none; /* no text color on hover */
-    transform: scale(1.02); /* slightly enlarge on hover */
-    box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.3); /* stronger shadow on hover */
-    transition: background-color 0.3s, color 0.3s, transform 0.3s, box-shadow 0.3s; /* smooth transition */
 }
 
 a {
