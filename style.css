@@ -243,3 +243,13 @@ button:hover {
   float: left;
   margin-right: 15px; /* Add some space between the image and surrounding content */
   }
+
+  .image-right {
+  float: right;
+  margin-left: 15px; /* Add some space between the image and surrounding content */
+  }
+
+  .image-centered {
+  float: center;
+  margin-right: 15px; /* Add some space between the image and surrounding content */
+  }
