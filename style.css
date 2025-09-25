@@ -239,13 +239,7 @@ button:hover {
 .shadow {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
 }
-
-img {
-    display: block; /* remove inline spacing */
-    margin: 10px auto; /* center images with margin */
-    border-radius: 10px; /* rounded corners */
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
-    max-width: 100%; /* ensure images don't exceed container width */
+.img-responsive {
+    max-width: 100%; /* responsive image */
     height: auto; /* maintain aspect ratio */
-    /* image size adjusted in HTML file */
 }
