@@ -238,3 +238,8 @@ button:hover {
 .shadow {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
 }
+
+.image-left {
+  float: left;
+  margin-right: 15px; /* Add some space between the image and surrounding content */
+  }
