@@ -154,7 +154,11 @@ ul {
         height: fit-content;
         background-color:none; /* no background color */
         margin: 20px 0;
-        
+        /* center div horizontally */
+        margin-left: auto; /* center div horizontally */
+        margin-right: auto; /* center div horizontally */
+        display: flex; /* use flexbox for centering */
+        align-items: center; /* center items vertically */
     }
 
 #firstDiv:hover {
