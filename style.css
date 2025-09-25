@@ -149,13 +149,18 @@ ul {
 }
 
 #secondDiv {
-        padding: none;
-        margin-top: 30px;
-        width: fit-content;
-        height: fit-content;
-        background-color:none; /* no background color */
-        margin: 20px 0;
-    }
+    border: 2px solid black; /* black border */
+    padding: 16px;  /* padding inside the box */
+    margin-top: 30px;
+    width: fit-content;
+    height: fit-content;
+    background-color: none; /* no background color */
+    margin: 20px 0;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); /* subtle shadow */
+    border-radius: 10px; /* rounded corners */
+    max-width: 900px; /* limit max width */
+    max-height: 400px; /* limit max height */
+}
 
 #firstDiv:hover {
     background-color: #752786; /* purple on hover */
