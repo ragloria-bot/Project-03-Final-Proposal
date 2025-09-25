@@ -241,7 +241,7 @@ button:hover {
 }
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
-  float: left;
+  float: center;
   width: 33.33%;
   padding: 5px;
 }
