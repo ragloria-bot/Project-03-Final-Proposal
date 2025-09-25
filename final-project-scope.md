@@ -21,10 +21,33 @@ offerings. This digital storefront will not only highlight the diverse
 flavor options available, but it will also locations, and times of  
 operation. Overall, this website will serve as a comprehensive marketing  
 tool aimed at increasing sales while simultaneously cultivating a  
-dedicated customer community that shares a passion for delicious snow cones.
+dedicated customer community that shares a passion for delicious snow cones.  
+
+- Page one will be the hompage with a relvant information to the audience such as:
+    - Locations.
+    - Hours of Operation.
+    - Contact Information.
+    - Social Media the Business supports.
+    - Link to learn more about owner and business.
+    - Link to menu flavors, prices, sizes, and toppings.
+    - Windy.com weather map embeded on homepage.  
+
+- Page two will have information of the owner and the business with:
+    - Link to menu flavors, prices, sizes, and toppings.
+    - Listed location and description of lacations.  
+
+- Page three will include information pertaining to snowcones such as:
+    - Menu flavors
+    - Prices
+    - Sizes
+    - Toppings
+    - Windy.com weather map embeded.  
+
+- The webpage will be built using HTML and CSS formats.
+- All project work will be within the GitHub repository.  
 
 ## Desired Results
-The primary objective is to design and develop a user-friendly, and visually  
+The primary objective is to design and develop a three page user-friendly, and visually  
 captivating website that not only converts visitors into paying customers but  
 also fosters a strong sense of brand loyalty. We are committed to enhancing  
 the overall user experience by implementing intuitive navigation, high-quality  
@@ -35,15 +58,22 @@ prioritizing exceptional customer service and seamless online engagement,
 we aim to create lasting relationships with our customers, encouraging repeat  
 visits and promoting word-of-mouth referrals. Ultimately, our goal is to build  
 a robust online presence that supports our business growth and cultivates a  
-dedicated community of brand advocates.
+dedicated community of brand advocates. Also to contain all project files within the GitHub repository.
 
 ## Exclusions
-Artic Treats website will exclusively offer a delightful range of snow cones  
+- Artic Treats website will exclusively offer a delightful range of snow cones  
 for our valued customers right at our storefront. Each snow cone is crafted  
 with high-quality ingredients and comes in a variety of flavors to satisfy  
-every palate. These refreshing treats will not be available for online orders,  
+every palate.  
+
+- These refreshing treats will not be available for online orders,  
 also Artic Treats website will not include a mobile app, delivery service  
-integration, or catering booking functionality.
+integration, or catering booking functionality. 
+
+- No more than three pages in the website design.  
+- No other scripts such as, Java, Ruby, or Python.  
+- No login to access website.  
+- No review comment section with website.
 
 ## Priorities
 How would you priorititize these constraints? (1= most important)
@@ -52,8 +82,15 @@ How would you priorititize these constraints? (1= most important)
 3. Encourage engagement through high-quality photos and social media integration. 
 
 ## Acceptance Criteria
-The business owner is required to review and approve the final version of the  
-Arctic Treats website before it goes live on April 16, 2026. Ensuring that  
+- The business owner is required to review and approve the final version of the  
+Arctic Treats website before it goes live on April 16, 2026. 
+
+- Ensuring that  
 the site loads swiftly is crucial, as a quick-loading website significantly  
 enhances user experience, reduces frustration, and minimizes the likelihood  
-of potential customers abandoning the website. 
+of potential customers abandoning the website.
+  
+- Website must have three pages: homepage, about page, and menu page.  
+- Webpages must be built using only HTML and CSS.  
+- Project must be submitted through the GitHub repository.
+
