@@ -239,14 +239,8 @@ button:hover {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
 }
 
-div {
-  display: flex;
-  justify-content: left;
-  align-items: center;
-  height: 500px;
-  border: 1px solid black;
-}
-
 img {
+    float: left; /* float image to the left */
+    margin: 10px; /* margin around image */
   width:50%;
 }
