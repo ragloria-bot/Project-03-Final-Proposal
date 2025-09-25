@@ -148,40 +148,6 @@ ul {
     hyphens: none; /* no hyphenation */
 }
 
-#secondDiv {
-    border: 3px solid black; /* black border */
-    padding: 16px;
-    margin-top: 30px;
-    width: fit-content;
-    height: fit-content;
-    background-color:#f0f8ff; /* light blue background */
-    margin: 20px 0;
-    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); /* subtle shadow */
-    border-radius: 10px; /* rounded corners */
-    max-width: 900px; /* limit max width */
-    max-height: 400px; /* limit max height */
-    font-size: 16px; /* consistent font size */
-    color: #051718; /* dark teal text for contrast */
-    font-family: Arial Rounded MT Bold, Arial, sans-serif; /* consistent font */
-    line-height: 1.5; /* consistent line height */
-    text-align: center; /* center text */
-    margin-left: auto; /* center div horizontally */
-    margin-right: auto; /* center div horizontally */
-    display: flex; /* use flexbox for centering */
-    align-items: center; /* center items vertically */
-    justify-content: center; /* center items horizontally */
-    flex-direction: column; /* stack elements vertically */
-    text-align: center; /* center text */
-    text-justify: inter-word; /* justify text */
-    text-indent: 20px; /* indent first line */
-    text-transform: none; /* normal text case */
-    letter-spacing: normal; /* normal letter spacing */
-    word-spacing: normal; /* normal word spacing */
-    white-space: normal; /* normal white space handling */
-    word-break: normal; /* normal word breaking */
-    hyphens: none; /* no hyphenation */
-}
-
 #firstDiv:hover {
     background-color: #752786; /* purple on hover */
     color: white; /* white text on hover */
@@ -189,11 +155,6 @@ ul {
     box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.3); /* stronger shadow on hover */
     transition: background-color 0.3s, color 0.3s, transform 0.3s, box-shadow 0.3s; /* smooth transition */
 } 
-
-#secondDiv:hover {  
-    background-color: none; /* no background color on hover */
-    color: none; /* no text color on hover */
-}
 
 a {
     color: #02090c; /* dark turquoise */
