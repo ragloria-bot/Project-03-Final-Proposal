@@ -240,7 +240,7 @@ button:hover {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
 }
 
-/* Three image containers (use 25% for four, and 50% for two, etc) */
+/* Three image containers for all html files (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
   width: 15%;
