@@ -30,7 +30,7 @@ granted by Jack Frost, ensuring that all design elements,
 functionality, and content meet the established standards  
 and goals.
 
-#### **Work Breakdown Structure (WBS)**  
+### **Work Breakdown Structure (WBS)**  
 *Hierarchical decomposition of the total scope of work to  
 be carried out by the project team.*  
 
@@ -54,7 +54,7 @@ owner Jack Frost.
 - **Phase 6:** Launch the website after approval from  
 Owner Jack Frost.
 
-#### **Project Schedule**  
+### **Project Schedule**  
 
 - **Timeline:** Artic Treats website will start rough draft  
 Novemeber 1, 2025 and complete website by April 16, 2026.  
@@ -81,7 +81,7 @@ Novemeber 1, 2025 and complete website by April 16, 2026.
     6. April 1, 2026- Launched the website after approval from  
     Owner Jack Frost
 
-#### **Roles and Responsibilities**  
+### **Roles and Responsibilities**  
 
 - **Content Management:**  
 Overseeing the creation, editing, auditing, and publishing of  
@@ -108,12 +108,12 @@ requirements to ensure the website is compliant and up-to-date.
 Managing domain registration and website hosting services to  
 ensure reliability and availability. 
 
-#### **Budget Plan**  
+### **Budget Plan**  
 
 **Budget:**  
 Entirire website launch is budgeted at $15,000.  
 
-#### **Risk Management Plan**  
+### **Risk Management Plan**  
 **Risk 1:**  
 There is a significant risk that the website development may not be  
 completed on time. This could arise from various factors, such as  
@@ -137,7 +137,7 @@ timelines. This collaborative approach will help us identify potential
 roadblocks early and promote a supportive environment for successful  
 project completion.
 
-#### **Communication Plan**
+### **Communication Plan**
 
 - **Weekly team meetings:**  
 Regular, scheduled in-person meeting will serve as the primary  
