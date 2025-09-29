@@ -43,7 +43,7 @@ background, font type, size. etc.
 - **Phase 3:** Select and confirm the image(s) to be  
 placed on the website.  
 
-- **Phase 4:** Collaborate on ideas for how the website will  
+- **Phase 4:** Collaborate on ideas for how the website will  
 potentially appear to the audience once it is live. Make  
 final decision on the website's appearance and how  
 categories are organized.  
