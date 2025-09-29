@@ -1,28 +1,44 @@
-## Project Details
+## Project Retrospective  
 
-## Project Name: [Name of Project]
+## Project Name: *Arctic Treats Snowcones Website Development*  
 
-## Prepared By: Ramona Gloria
+## Prepared By: Ramona Gloria  
 
-## Date: October
+## Date: OSeptember 29, 2025  
 
-1. What Went Well?
-Identify and celebrate the successes and accomplishments of the project.
-Example: Positive stakeholder feedback on a key deliverable.
-Example: The team collaborated effectively to solve a complex problem.
+1. **What Went Well?**  
 
-2. What Didn't Go So Well?
-List any challenges, problems, or failures encountered during the project.
-Example: Unexpected delays due to resource constraints.
-Example: Communication breakdowns between teams.
-3. What Did We Learn?
+- Positive stakeholder feedback on a key deliverable.  
 
-Document the knowledge gained from both successes and challenges.
-Example: We learned that requiring daily stand-up meetings improved cross-team communication.
-4. What Can We Improve for Next Time?
+- The team collaborated effectively to solve a complex problem.  
 
-Propose concrete, actionable steps for improving processes in future projects.
-Action Item 1: [Specific Improvement]
-Owner: [Who is responsible?]
-Action Item 2: [Specific Improvement]
-Owner: [Who is responsible?]
+2. **What Didn't Go So Well?**  
+
+- The project experienced unexpected delays primarily due to  
+limitations in available resources, including staffing shortages  
+and supply chain disruptions. These constraints hindered our  
+ability to meet deadlines and maintain the planned workflow. As  
+a result, we are actively working to identify alternative  
+solutions to mitigate these delays and ensure the project  
+stays on track moving forward.  
+
+3. **What Did We Learn?**  
+
+ Our experience showed that implementing daily instead of weekly  
+ stand-up meetings significantly improved communication among  
+ different teams.These brief meetings provided a structured  
+ opportunity for team members to share updates, address any  
+ obstacles they were facing, and align their goals. As a result,  
+ we noticed a more collaborative atmosphere, with teams better  
+ informed about each other's projects and progress, ultimately  
+ leading to increased productivity and efficiency.  
+ 
+4. **What Can We Improve for Next Time?**  
+
+- **Action Item 1:**  
+Establish daily meetings instead of weekly meetings to  
+meet phase dealines.  
+
+- **Action Item 2:**  
+Have more staff avaliable for project development for  
+unexpected shortages or delays.

@@ -1,6 +1,6 @@
 ## Project Plan  
 
-## Project Name: Artic Treats New Website  
+## Project Name: *Arctic Treats Snowcones Website Development*  
 
 ## Prepared By: Ramona Gloria  
 
