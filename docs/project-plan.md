@@ -114,7 +114,7 @@ ensure reliability and availability.
 Entirire website launch is budgeted at $15,000.  
 
 ### **Risk Management Plan**  
-**Risk :**  
+- **Risk :**  
 There is a significant risk that the website development may not be  
 completed on time. This could arise from various factors, such as  
 unexpected technical challenges, resource limitations, or insufficient  
@@ -124,7 +124,7 @@ user experience and business goals. It is essential to identify these
 risks early and implement effective strategies to mitigate them,  
 ensuring the successful completion of the project.  
 
-**Mitigation Strategy:**  
+- **Mitigation Strategy:**  
 Coordinate weekly meetings with the development team to ensure effective  
 communication and project management. During each meeting, represen-  
 tatives from every department will provide detailed updates on their  
