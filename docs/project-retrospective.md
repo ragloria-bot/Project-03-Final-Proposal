@@ -24,7 +24,7 @@ stays on track moving forward.
 
 3. **What Did We Learn?**  
 
- Our experience showed that implementing daily instead of weekly  
+ - Our experience showed that implementing daily instead of weekly  
  stand-up meetings significantly improved communication among  
  different teams.These brief meetings provided a structured  
  opportunity for team members to share updates, address any  
