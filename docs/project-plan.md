@@ -1,12 +1,12 @@
-## Project Details
+## Project Plan  
 
-## Project Name: Artic Treats New Website
+## Project Name: Artic Treats New Website  
 
-## Prepared By: Ramona Gloria
+## Prepared By: Ramona Gloria  
 
-## Date: September 29, 2025
+## Date: September 29, 2025  
 
-### Project Objectives
+### Project Objectives  
 
 1. **Goals:**  
 The primary objective of this project is to design,  
