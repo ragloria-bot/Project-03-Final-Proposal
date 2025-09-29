@@ -30,7 +30,7 @@ granted by Jack Frost, ensuring that all design elements,
 functionality, and content meet the established standards  
 and goals.
 
-2. **Work Breakdown Structure (WBS)**
+2. **Work Breakdown Structure (WBS)**  
 *Hierarchical decomposition of the total scope of work to  
 be carried out by the project team.*  
 
