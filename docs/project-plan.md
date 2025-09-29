@@ -71,7 +71,7 @@ Novemeber 1, 2025 and complete website by April 16, 2026.
     placed on the website.  
 
     4. Febuary 1, 2026- Collaborated on ideas for how the website  
-    will potentially appear to the audience once it is live. Made 
+    will potentially appear to the audience once it is live. Made  
     final decision on the website's appearance and how categories  
     are organized.  
 
