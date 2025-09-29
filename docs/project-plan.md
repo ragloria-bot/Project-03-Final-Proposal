@@ -44,8 +44,8 @@ background, font type, size. etc.
 placed on the website.  
 
 - **Phase 4:** Collaborate on ideas for how the website will  
-potentially appear to the audience once it is live. Make  
-final decision on the website's appearance and how  
+potentially appear to the audience once it is live. Make  
+final decision on the website's appearance and how  
 categories are organized.  
 
 - **Phase 5:** Complete website design and get approval from  
@@ -114,7 +114,7 @@ ensure reliability and availability.
 Entirire website launch is budgeted at $15,000.  
 
 ### **Risk Management Plan**  
-**Risk 1:**  
+**Risk :**  
 There is a significant risk that the website development may not be  
 completed on time. This could arise from various factors, such as  
 unexpected technical challenges, resource limitations, or insufficient  
