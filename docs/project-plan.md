@@ -6,7 +6,7 @@
 
 ## Date: September 29, 2025  
 
- ### Project Objectives 
+### Project Objectives
 
 - **Goals:**  
 The primary objective of this project is to design,  
