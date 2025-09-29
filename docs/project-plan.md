@@ -8,7 +8,7 @@
 
 ### Project Objectives  
 
-#### **Goals:**  
+- **Goals:**  
 The primary objective of this project is to design,  
 develop, and launch a professional and user-friendly website for  
 "Artic Treats," an exciting new snow cone business. This website  
