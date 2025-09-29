@@ -110,7 +110,7 @@ ensure reliability and availability.
 
 ### **Budget Plan**  
 
-**Budget:**  
+- **Budget:**  
 Entirire website launch is budgeted at $15,000.  
 
 ### **Risk Management Plan**  
