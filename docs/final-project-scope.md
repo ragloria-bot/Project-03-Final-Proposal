@@ -1,6 +1,10 @@
 ## Tool:  New Snowcone Website (Artic Treats) for Business owner Jack Frost.
 
-## Project Name: *Arctic Treats Snowcones Website Development*
+## Project Name: *Arctic Treats Snowcones Website Development*  
+
+## Prepared By: Ramona Gloria  
+
+## Date: September 29, 2025  
 
 ## Project Purpose
 The main objective of this project is to design, develop, and launch a professional,  
