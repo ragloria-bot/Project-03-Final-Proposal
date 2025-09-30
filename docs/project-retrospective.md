@@ -1,10 +1,10 @@
 ## Project Retrospective  
 
-## Project Name: *Arctic Treats Snowcones Website Development*  
+## Project Name: *Arctic Treats Snowcones Website Development (Final Project - Full Project Proposal)*  
 
 ## Prepared By: Ramona Gloria  
 
-## Date: OSeptember 29, 2025  
+## Date: September 29, 2025  
 
 1. **What Went Well?**  
 
