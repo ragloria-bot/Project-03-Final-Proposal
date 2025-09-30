@@ -1,6 +1,6 @@
 ## Project Retrospective  
 
-## Project Name: *Arctic Treats Snowcones Website Development (Final Project - Full Project Proposal)*  
+## Project Name: *Arctic Treats Snowcones Website Development (Final Project Project Proposal)*  
 
 ## Prepared By: Ramona Gloria  
 
