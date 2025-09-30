@@ -4,7 +4,7 @@
 
 ## Prepared By: Ramona Gloria  
 
-## Date: October 3, 2025   
+## Date: October 3, 2025  
 
 ### Project Objectives
 
